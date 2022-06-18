@@ -1,0 +1,61 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  display:block;
+  margin:30px auto;
+  font:Verdana, Arial, sans-serif;
+}
+.Container{
+color: lawngreen ;
+text-align: center;
+background-color:rgba(0,0,0, 0.5)
+}
+#logo{
+  width: auto; height: 100px;
+}
+.Modelli{
+  color: white;
+  font-size: x-large
+}
+.span{
+  font-size: large;
+}
+.bottoni{
+background-color: lawngreen;
+text-align: center;
+padding: 10px;
+}
+#sfondo{
+margin-left: 300px;
+margin-right: 300px;
+padding:100px;
+color:#000;
+background-color: black;
+opacity:0.5;
+width: auto;
+border-radius: 30px 30px 30px 30px
+}
+#Articolo1{
+background-color:chocolate;
+display: flex;
+border-radius: 5px;
+width:30% ;
+height: 20px;
+padding: 5px;
+}
+#Articolo2{
+background-color:green;
+display: flex;
+border-radius: 5px;
+width:50% ;
+height: 20px;
+padding: 5px;
+}
+#Articolo3{
+background-color:Red;
+display: flex;
+border-radius: 5px;
+width:20% ;
+height:20px;
+padding:5px;
+}
